@@ -16,4 +16,4 @@
 <p>The solutions are useful if you are just beginning to understand algorithms and are interested in learning teh python programming language.</p>
 
 ## Conclusion
-<p>The questions are adapted from the W3 website incase you wnat to explore teh solutions in other programming languages. </p>
+<p>The questions are adapted from the <a href="https://www.w3resource.com/php-exercises/basic-algorithm/index.php">W3 website </a> incase you wnat to explore teh solutions in other programming languages. </p>
